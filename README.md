@@ -46,8 +46,8 @@ Before going deeper into software engineering, I taught digital literacy and cod
 
 ## 📊 GitHub Stats
 
-![Martha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarthaMuronji&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthaMuronji&layout=compact&theme=radical)
+![Martha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarthaMuronji&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthaMuronji&layout=compact&theme=radical&cache_seconds=86400)
 
 ## 🔗 Connect with me
 
